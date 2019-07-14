@@ -1,8 +1,8 @@
 # Data Science Repository
 
-This repository contains data science projects or ideas I worked on in my free time. Feedback for improvements are very welcome!
+This repository contains data science projects or ideas I worked on in my free time or during university.
 
-## Spam Detection 
+
 ## Sentiment Analysis
 ### Task Description
 
@@ -30,4 +30,7 @@ to extract the words from the movie reviews and TfidfTransformer of sklearn to t
 to a word-frequency matrix including ngrams with up to 3 words.
 
 I reached an *accuracy score of 89.872%* on the holdout set.
+
+
+[//]: ## Spam Detection 
 
